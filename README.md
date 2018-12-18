@@ -38,13 +38,6 @@ For any questions,addition,ideas or concerns. Don't hesitate to contact me via m
     
 4- if the values entered differ but don't exceed each other by much, triangle would be a Scalene triangle.
    
-   
-## Authors
-
-Vynnel Omondi.
-
 ## License
 *MIT 
 copyright(c)2018 Umurangamirwa
-
-# Triangle-tracker
