@@ -28,7 +28,9 @@ Enter the link into the url interface and click the prompt.
 ## Support and contact details
 
 For any questions,addition,ideas or concerns. Don't hesitate to contact me via my E-mail:umurangamclaire@gmail.com
-##BDD.
+
+## BDD.
+
 1- if the sum of two sides is equal or less than the value of the third side, then the program will detect that the values do not form a definite triangle.
    
 2- if the values entered are all equal to one another, then the program would show that an Equilateral triangle.
