@@ -47,3 +47,10 @@ h2{
         text-transform: lowercase;
         font-size: 20px    
     }
+    input, button{
+        padding-bottom: 5px;
+        margin: 5px;
+    }
+    p, li{
+        font-size: 20px;
+    }
