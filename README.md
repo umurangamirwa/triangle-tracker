@@ -10,8 +10,7 @@ This is an application that determines whether a set of three numbers can either
 
 - A running network connection to the internet
 - A web browser
-- This link https://github.com/umurangamirwa/triangle-tracker  
-
+- This link  https://umurangamirwa.github.io/triangle-tracker/
 ## Deployment
 
 Enter the link into the url interface and click the prompt.
