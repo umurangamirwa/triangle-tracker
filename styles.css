@@ -1,12 +1,38 @@
 body{
-    background-color: lightskyblue
+    background-color: lightskyblue;
 }
 #isosceless{
     width: 0; 
+    border-bottom:300px solid rgb(29, 43, 124);
     border-right: 300px solid transparent;
-    border-left:300px solid transparent;
-    border-bottom:400px solid black;
+    border-left:400px solid transparent;
     
 }
+#equilateral{
+    width: 0; 
+    border-bottom:300px solid rgb(29, 43, 124);
+    border-right: 300px solid transparent;
+    border-left:300px solid transparent; 
+}
    
-  
+  #scalene{
+    width: 0; 
+    border-bottom:300px solid rgb(29, 43, 124);
+    border-right: 200px solid transparent;
+    border-left:400px solid transparent;
+  }
+  button{
+    background-color: #4CAF50;
+    border: none;
+    color: white; 
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: flow-root;
+    font-size: 25px;
+ }
+ h1{
+     color:blueviolet;
+     font-weight: 20px; 
+
+ }
