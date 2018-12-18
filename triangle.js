@@ -12,9 +12,10 @@ function getResult(){
     }
     else if((side1 + side2) <= side3 || (side1 + side3) <= side2 || (side2 + side3) <= side1) {
     alert("Not a definite triangle");
-    window.location.href="scalene.html";
+    window.location.href="not-triangle.html";
     }
     else{
     alert("Scalene");
+    window.location.href="scalene.html";
     }
     }
